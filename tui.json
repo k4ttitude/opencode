@@ -1,6 +1,10 @@
 {
   "$schema": "https://opencode.ai/tui.json",
   "keybinds": {
-    "variant_cycle": "alt+t"
+    "variant_cycle": "alt+t",
+    "session_child_first": "<leader>down,<leader>j",
+    "session_child_cycle_reverse": "left,h",
+    "session_child_cycle": "right,l",
+    "session_parent": "up,k"
   }
 }
