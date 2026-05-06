@@ -1,6 +1,6 @@
 {
   "$schema": "https://opencode.ai/config.json",
-  "default_agent": "prometheus",
+  // "default_agent": "prometheus",
   "plugin": [
     "oh-my-openagent@latest"
   ]

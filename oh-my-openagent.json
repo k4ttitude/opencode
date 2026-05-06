@@ -10,6 +10,7 @@
   ],
   "agents": {
     "sisyphus": {
+      "disable": true,
       "model": "opencode-go/kimi-k2.5",
       "fallback_models": [
         {
@@ -32,6 +33,7 @@
       ]
     },
     "hephaestus": {
+      "disable": true,
       "model": "opencode-go/kimi-k2.5",
       "fallback_models": [
         {
